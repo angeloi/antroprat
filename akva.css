@@ -1,0 +1,82 @@
+/* AntroPrat Online stylesheet by nawroth.com */
+
+/* akva utseende */
+
+body
+{
+    background: #FCBDAA url(bgantroprat-akva.jpg);
+    font: normal 0.95em/1.25 'Trebuchet MS', Verdana, Arial, sans-serif;
+    color: black;
+    padding: 8px;
+    margin: 0;
+}
+div, textarea
+{
+    width: 40em;
+}
+img, a, a:link
+{
+    border: 0;
+}
+
+a:link, a:visited, a:active, a:hover
+{
+    color: black;
+    text-decoration: underline;
+}
+textarea, select, input
+{
+    background: #B0D9E9 url(bgfraser-akva.jpg);
+}
+textarea
+{
+    font: normal 1em/1.3 Verdana, Helvetica, Arial, sans-serif;
+    border: 0px solid #7B7789;
+    margin: 0.8em 0;
+}
+p
+{
+    font: normal 1em 'Trebuchet MS', Verdana, Arial, sans-serif;
+    margin: 0;
+}
+form
+{
+    margin: 0.8em 0;
+    padding: 0;
+}
+h1
+{
+    background: #F7F7C5 url(bgrubrik-akva.jpg);
+    font: bold 2.5em/1 Impact, Arial, sans-serif;
+    border: 0px solid #7B7789;
+    margin: 0;
+    padding: 2px 0 3px 6px;
+    color: #7B7789;
+}
+ul
+{
+    font-size: 0.9em;
+    list-style: square outside url(bombap-akva.gif);
+}
+em, select, input
+{
+    font: normal 1em 'Trebuchet MS', Verdana, Arial, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+}
+em
+{
+    padding: 0 0.3em;
+}
+a, address
+{
+    display: inline;
+}
+address
+{
+    font-size: 0.7em;
+    font-style: normal;
+    margin: 0 18em 0 0;
+    vertical-align: top;
+}

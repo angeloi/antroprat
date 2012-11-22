@@ -1,0 +1,81 @@
+/* AntroPrat Online stylesheet by nawroth.com */
+
+/* vanligt utseende */
+
+body
+{
+    background: #ffd09c url(bgantroprat.jpg);
+    font: normal 0.95em/1.25 Verdana, Helvetica, Arial, sans-serif;
+    color: black;
+    padding: 8px;
+    margin: 0;
+}
+div, textarea
+{
+    width: 40em;
+}
+img, a, a:link
+{
+    border: 0;
+}
+h1, textarea, em, select, input
+{
+    background: #ffe0a8 url(bgfraser.jpg);
+}
+h1, em, select, input
+{
+    color: #632984;
+}
+a:link, a:visited, a:active, a:hover
+{
+    color: black;
+    text-decoration: underline;
+}
+textarea
+{
+    font: normal 1em/1.3 Verdana, Helvetica, Arial, sans-serif;
+    border: 3px solid #632984;
+    margin: 0.8em 0;
+}
+p
+{
+    font: normal 1em Verdana, Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+form
+{
+    margin: 0.8em 0;
+    padding: 0;
+}
+h1
+{
+    font: bold 2em/1 Tahoma, Arial, sans-serif;
+    border: 1px solid #632984;
+    margin: 0;
+    padding: 2px 0 3px 6px;
+}
+ul
+{
+    font-size: 0.9em;
+    list-style: square outside url(bombap.gif);
+}
+em, select, input
+{
+    font-weight: bold;
+    font-style: normal;
+}
+em
+{
+    padding: 0 0.3em;
+}
+a, address
+{
+    display: inline;
+}
+address
+{
+    font-size: 0.7em;
+    font-style: normal;
+    margin: 0 18em 0 0;
+    vertical-align: top;
+}
